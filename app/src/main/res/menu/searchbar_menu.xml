@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fav_button"
+        android:icon="@drawable/favfull"
+        app:showAsAction="ifRoom"
+        android:title="@string/favuser" />
+    <item
+        android:id="@+id/light_night_btn"
+        android:icon="@drawable/nightlight"
+        app:showAsAction="ifRoom"
+        android:title="@string/night_mode" />
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidFundamental</string>
+    <string name="user1">Tri Murniati</string>
+    <string name="search_view">Mau cari siapa?</string>
+    <string name="search">Mau cari siapa?</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="username">username</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="total_following">total following</string>
+    <string name="total_followers">total followers</string>
+    <string name="rfollower">Follower : %d</string>
+    <string name="rfollowing">Following : %d</string>
+    <string name="addFav">You add this user to favorite</string>
+    <string name="delFav">You delete this user from favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favuser">FavUser</string>
+    <string name="night_mode">night_mode</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

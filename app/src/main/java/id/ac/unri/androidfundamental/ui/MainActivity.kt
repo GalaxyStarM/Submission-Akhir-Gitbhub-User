@@ -85,7 +85,6 @@ class MainActivity : AppCompatActivity() {
                 R.id.light_night_btn -> {
                     val isDarkModeActive = settingThemesViewModel?.getThemeSettings()?.value ?: false
                     settingThemesViewModel?.saveThemeSetting(!isDarkModeActive)
-
                     true
                 }
                 else -> false
